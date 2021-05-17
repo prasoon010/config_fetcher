@@ -1,1 +1,1 @@
-# config_updater
+# config_fetcher
